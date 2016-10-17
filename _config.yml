@@ -6,7 +6,7 @@ email: huxpro@gmail.com
 description: "构造出一个个数据和逻辑的世界"
 keyword: ""
 url: "https://gorcat.github.io"              # your host, for absolute URL
-baseurl: "/"         # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: "https://gorcat.github.io/"         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
