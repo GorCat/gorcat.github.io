@@ -6,7 +6,7 @@ email: huxpro@gmail.com
 description: "构造出一个个数据和逻辑的世界"
 keyword: ""
 url: "https://gorcat.github.io"              # your host, for absolute URL
-baseurl: "/gorcatblog"         # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: "/"         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
@@ -83,7 +83,7 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 friends: [
     {
         title: "Hux Blog",
-        href: "http://huangxuan.me"
+        href: "/"
     },{
         title: "Foo",
         href: "#"
