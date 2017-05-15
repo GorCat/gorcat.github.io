@@ -1,9 +1,7 @@
-# HuxBlog Boilerplate
+# 菓喵的 Blog
 
-##### This is the boilerplate of [Hux Blog](https://github.com/Huxpro/huxpro.github.io), all documents is over there!
+记录平时工作学习时的心得。
 
-#### [View Boilerplate &rarr;](http://huangxuan.me/huxblog-boilerplate/)
+##### 致敬：
 
-#### [View Live Hux Blog &rarr;](http://huangxuan.me)
-
-## If you like Hux Blog, Please star [huxpro.github.io repo](https://github.com/Huxpro/huxpro.github.io) instead of this! Thank you!
+感谢 blog 模板提供者： [Hux Blog](https://github.com/Huxpro/huxpro.github.io)
