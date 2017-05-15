@@ -2,8 +2,8 @@
 title: GorCat Blog
 SEOTitle: 你的博客 | Your Blog
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
-description: "构造出一个个数据和逻辑的世界"
+email: 745318341@qq.com
+description: "一只思考着永恒生命的代码喵"
 keyword: ""
 url: "https://gorcat.github.io"              # your host, for absolute URL
 baseurl: "https://gorcat.github.io"         # for example, '/blog' if your blog hosted on 'host/blog'
@@ -12,11 +12,7 @@ baseurl: "https://gorcat.github.io"         # for example, '/blog' if your blog 
 
 # SNS settings
 RSS: false
-weibo_username:     GorCat
-#zhihu_username:     GorCat
 github_username:    GorCat
-#twitter_username:  huxpro
-#facebook_username:  huxpro
 
 
 
@@ -69,7 +65,7 @@ ga_domain: huangxuan.me
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "一只代码喵"
-sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar-GorCat.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -82,7 +78,7 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 # Friends
 friends: [
     {
-        title: "Hux Blog",
+        title: "",
         href: "/"
     },{
         title: "Foo",
